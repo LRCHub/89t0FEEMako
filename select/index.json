@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Driver",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-02-08T07:00:36.812340Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey Driver",
+      "artist": "Dale Watson",
+      "has_synced": false,
+      "path": "select/01_Hey_Driver_Dale_Watson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drive on, Driver",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/02_Drive_on,_Driver_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Dying Truck Driver",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/03_The_Dying_Truck_Driver_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby Driver",
+      "artist": "Simon & Garfunkel",
+      "has_synced": true,
+      "path": "select/04_Baby_Driver_Simon_&_Garfunkel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Back Street Driver",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/05_Back_Street_Driver_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Wanna Be Your Driver",
+      "artist": "Shivaree",
+      "has_synced": false,
+      "path": "select/06_I_Wanna_Be_Your_Driver_Shivaree.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sunset Driver (Demo)",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/07_Sunset_Driver_(Demo)_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Daily Driver",
+      "artist": "Black Marble",
+      "has_synced": true,
+      "path": "select/08_Daily_Driver_Black_Marble.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Driver",
+      "artist": "Pendulum",
+      "has_synced": true,
+      "path": "select/09_Driver_Pendulum.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Scooby Driver",
+      "artist": "Belle and Sebastian",
+      "has_synced": true,
+      "path": "select/10_Scooby_Driver_Belle_and_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Scooby Driver",
+      "artist": "Belle & Sebastian",
+      "has_synced": true,
+      "path": "select/11_Scooby_Driver_Belle_&_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "To Be Swished/Dream of the UPS Driver",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/12_To_Be_Swished_Dream_of_the_UPS_Driver_Piano_Magic.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Driver",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Driver_Official髭男dism.txt"
+    }
+  ]
+}
